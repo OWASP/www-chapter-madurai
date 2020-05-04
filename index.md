@@ -1,8 +1,8 @@
 ---
 layout: col-sidebar
 title: OWASP Madurai
-tags: example-tag
-level: 0
+tags: Madurai OWASP Chapter India
+level: 4
 region: Asia
 ---
 
