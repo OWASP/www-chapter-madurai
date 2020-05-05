@@ -8,7 +8,7 @@ region: Asia
 
 ## Welcome
 
-
+<img src="assets/images/logo/owasp_madurai_logo.png"/>
 
 OWASP Madurai was founder in Oct, 2016. For the past 4 years, the Madurai Chapter has conducted numerous Meetups and Conference. All these confereneces are open meets where everyone can join and share their knowledge in Application Security. The chapter presents opportunities to the software community in contributing to secure application development.
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
