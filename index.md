@@ -39,5 +39,8 @@ Would you like to speak on the upcoming OWASP Madurai Webinar? [Contact Us](mail
     - Presentation time required
 
 ## Local News
-- OWASP Madurai Webinar on WebApplication pentesting - starting with bug bounty - Everyone is welcome to join us at our chapter meetings.
+- OWASP Madurai Webinar on Hak5 - Getting Started with Wifi Pineapple on 14th Sep2020 - Everyone is welcome to join us at our chapter meetings.
+- Speaker : Jeeva M ( Founder Aibeing Software Soltuions) 
+- Link to Join our Webinar Zoom Meeting ID : 957 3682 0675 Passcode : Owaspmdu
 - Stay tuned with the Chapter wiki to get updates on upcomming webinars and meetings.
+
