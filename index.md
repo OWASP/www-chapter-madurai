@@ -39,7 +39,7 @@ Would you like to speak on the upcoming OWASP Madurai Webinar? [Contact Us](mail
     - Presentation time required
 
 ## Local News
-- OWASP Madurai Webinar on Hak5 - Getting Started with Wifi Pineapple on 20th Sep2020 4pm(IST) - Everyone is welcome to join us at our chapter meetings.
+- OWASP Madurai Webinar - Getting Started with Wifi Networks on 20th Sep2020 4pm(IST) - Everyone is welcome to join us at our chapter meetings.
 - Speaker : Jeeva M ( Founder Aibeing Software Solutions) 
 - Link to Register - https://forms.gle/ihrQNpTo8xuj9KjZ6
 - Stay tuned with the Chapter wiki to get updates on upcomming webinars and meetings.
