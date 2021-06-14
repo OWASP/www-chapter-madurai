@@ -4,6 +4,8 @@ title: OWASP Madurai
 tags: Madurai OWASP Chapter India
 level: 4
 region: Asia
+meetup-group: OWASP-Madurai-Meetup-Group
+
 ---
 
 ## Welcome
@@ -12,6 +14,14 @@ region: Asia
 
 OWASP Madurai was founder in Oct, 2016. For the past 4 years, the Madurai Chapter has conducted numerous Meetups and Conference. All these confereneces are open meets where everyone can join and share their knowledge in Application Security. The chapter presents opportunities to the software community in contributing to secure application development.
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Madurai Meetup Group](https://www.meetup.com/OWASP-Madurai-Meetup-Group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
